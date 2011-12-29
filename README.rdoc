@@ -1,0 +1,6 @@
+=== The Neo4j Jar files
+
+Contains the enterprise jars files found on http://neo4j.org/download/
+Please check the license for those jar files on the link above !
+
+These jar files are needed for the Neo4j.rb gem - http://github.com/andreasronge/neo4j

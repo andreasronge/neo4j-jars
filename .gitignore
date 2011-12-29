@@ -1,0 +1,20 @@
+# ignore netbeans specific stuff
+nbproject
+
+# ignore Rubymine
+.idea
+
+.rvmrc
+.bundle
+tmp
+db/
+
+# jedit
+*~
+
+# vim
+.*.sw[a-z]
+
+Gemfile.lock
+coverage
+
