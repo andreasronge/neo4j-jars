@@ -1,3 +1,4 @@
+require 'java'
 require 'neo4j-jars/core/geronimo-jta_1.1_spec-1.1.1.jar'
 require 'neo4j-jars/core/lucene-core-3.1.0.jar'
 require 'neo4j-jars/core/neo4j-cypher-1.6.M01.jar'
